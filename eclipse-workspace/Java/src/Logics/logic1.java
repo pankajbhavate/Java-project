@@ -2,7 +2,7 @@ package Logics;
 
 public class logic1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
 		
 		String s []  = {"pan","janu","rupu" ,"jj"};
